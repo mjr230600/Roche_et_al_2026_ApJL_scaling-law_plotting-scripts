@@ -3,6 +3,4 @@ Atmospheric loss function (X_atm_calc.py) and fitting parameters (fit_params_xxx
 
 XXXX
 
-The initial conditions files, parameter files, and loss fractions vs. time data can be found in the Zenodo copy of this repository: DOI
-
 Developer: matthew.roche@bristol.ac.uk.
