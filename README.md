@@ -3,6 +3,6 @@ Atmospheric loss function (X_atm_calc.zip), supporting data (data_files/), plott
 
 XXXX
 
-The reproducibility data, impact scenarios, and loss function can also be found in the Zenodo copy of this repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15065478.svg)](https://doi.org/10.5281/zenodo.15065478)
+The reproducibility data, impact scenarios, and loss function can also be found in the Zenodo copy of this repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15065478.svg)](https://doi.org/10.5281/zenodo.23192412)
 
 Developer: matthew.roche@bristol.ac.uk.
